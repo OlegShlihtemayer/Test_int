@@ -54,6 +54,7 @@ This is a <sup>superscript</sup> text
 
 > Text that is a quote
 
+Use `git status` to list all new or modified files that haven't yet been committed.
 
 Some basic Git commands are:
 ```
