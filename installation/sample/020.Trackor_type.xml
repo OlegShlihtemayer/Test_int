@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="oshlihtemayer" description="" name="test.onevizion.com_BPL_03282024153559.xml" site="http&#x3a;&#x2f;&#x2f;dev2.vqs.net&#x3a;8080" ts="" ><XITOR_TYPES>
+<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="oshlihtemayer" description="" name="test.onevizion.com_BPL_03282024155109.xml" site="http&#x3a;&#x2f;&#x2f;dev2.vqs.net&#x3a;8080" ts="" ><XITOR_TYPES>
  <XITOR_TYPES_ITEM>
   <APPLET_LABEL>
    <T_LABEL>
@@ -9,7 +9,7 @@
    <T_LABEL>
     <APP_LANG_ID>1</APP_LANG_ID>
     <APP_LABEL_ID>-7775304</APP_LABEL_ID>
-    <LABEL_TEXT>Test2</LABEL_TEXT>
+    <LABEL_TEXT>Test22</LABEL_TEXT>
    </T_LABEL>
    <T_LABEL>
     <APP_LANG_ID>5</APP_LANG_ID>
@@ -42,7 +42,7 @@
    <T_LABEL>
     <APP_LANG_ID>1</APP_LANG_ID>
     <APP_LABEL_ID>-7775306</APP_LABEL_ID>
-    <LABEL_TEXT>Test2</LABEL_TEXT>
+    <LABEL_TEXT>Test22</LABEL_TEXT>
    </T_LABEL>
    <T_LABEL>
     <APP_LANG_ID>5</APP_LANG_ID>
@@ -70,7 +70,7 @@
    <T_LABEL>
     <APP_LANG_ID>1</APP_LANG_ID>
     <APP_LABEL_ID>-7775305</APP_LABEL_ID>
-    <LABEL_TEXT>Test2</LABEL_TEXT>
+    <LABEL_TEXT>Test22</LABEL_TEXT>
    </T_LABEL>
    <T_LABEL>
     <APP_LANG_ID>5</APP_LANG_ID>
@@ -98,7 +98,7 @@
    <T_LABEL>
     <APP_LANG_ID>1</APP_LANG_ID>
     <APP_LABEL_ID>-7775307</APP_LABEL_ID>
-    <LABEL_TEXT>Test2</LABEL_TEXT>
+    <LABEL_TEXT>Test22</LABEL_TEXT>
    </T_LABEL>
    <T_LABEL>
     <APP_LANG_ID>5</APP_LANG_ID>
@@ -125,7 +125,7 @@
    <T_LABEL>
     <APP_LANG_ID>1</APP_LANG_ID>
     <APP_LABEL_ID>-7775308</APP_LABEL_ID>
-    <LABEL_TEXT>Test2</LABEL_TEXT>
+    <LABEL_TEXT>Test22</LABEL_TEXT>
    </T_LABEL>
    <T_LABEL>
     <APP_LANG_ID>5</APP_LANG_ID>
@@ -143,7 +143,7 @@
     <LABEL_TEXT>Test2</LABEL_TEXT>
    </T_LABEL>
   </XITOR_CLASS_LABEL>
-  <XITOR_TYPE>test2</XITOR_TYPE>
+  <XITOR_TYPE>test22</XITOR_TYPE>
   <XITOR_TYPE_ID>196890</XITOR_TYPE_ID>
   <XITOR_CLASSES/>
   <TM_SETUPS>
@@ -185,7 +185,43 @@
     <IS_LOCKED>0</IS_LOCKED>
    </T_BPL_COMP_PKG>
   </COMPONENT_PACKAGES>
-  <BPD_ITEMS/>
+  <BPD_ITEMS>
+   <T_BPD_ITEM>
+    <ITEM_ID>1000914023142</ITEM_ID>
+    <PKEY>196890</PKEY>
+    <ITEM_TYPE_ID>34</ITEM_TYPE_ID>
+    <ITEM_STATUS_ID>1</ITEM_STATUS_ID>
+    <BLOB_DATA/>
+    <PROGRAM_ID>1000992202</PROGRAM_ID>
+    <APP_LABEL>
+     <T_LABEL>
+      <APP_LANG_ID>0</APP_LANG_ID>
+      <APP_LABEL_ID>-7775304</APP_LABEL_ID>
+      <LABEL_TEXT>Test2</LABEL_TEXT>
+     </T_LABEL>
+     <T_LABEL>
+      <APP_LANG_ID>1</APP_LANG_ID>
+      <APP_LABEL_ID>-7775304</APP_LABEL_ID>
+      <LABEL_TEXT>Test22</LABEL_TEXT>
+     </T_LABEL>
+     <T_LABEL>
+      <APP_LANG_ID>5</APP_LANG_ID>
+      <APP_LABEL_ID>-7775304</APP_LABEL_ID>
+      <LABEL_TEXT>Test2</LABEL_TEXT>
+     </T_LABEL>
+     <T_LABEL>
+      <APP_LANG_ID>10</APP_LANG_ID>
+      <APP_LABEL_ID>-7775304</APP_LABEL_ID>
+      <LABEL_TEXT>Test2</LABEL_TEXT>
+     </T_LABEL>
+     <T_LABEL>
+      <APP_LANG_ID>20</APP_LANG_ID>
+      <APP_LABEL_ID>-7775304</APP_LABEL_ID>
+      <LABEL_TEXT>Test2</LABEL_TEXT>
+     </T_LABEL>
+    </APP_LABEL>
+   </T_BPD_ITEM>
+  </BPD_ITEMS>
   <PARENT_RELATION_TYPES/>
   <CHAT_SUPPORTED>0</CHAT_SUPPORTED>
  </XITOR_TYPES_ITEM>
