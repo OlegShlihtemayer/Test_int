@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="oshlihtemayer" description="" name="1. test 1.xml" site="http&#x3a;&#x2f;&#x2f;dev2.vqs.net&#x3a;8080" ts="" ><CONFIG_GROUPS impMode="REMOVE_DYN_FIELDS_BEFORE_IMP">
+<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="oshlihtemayer" description="" name="1. test 1.xml" site="http&#x3a;&#x2f;&#x2f;dev2.vqs.net&#x3a;8080" ts="" ><CONFIG_GROUPS impMode="MERGE">
  <CONFIG_GROUPS_ITEM>
   <APP_LABEL>
    <T_LABEL>
