@@ -1,0 +1,25 @@
+[{
+    "name" : "name1",
+    "typeId": 0,
+    "value": "",
+    "paramSql" : "",
+    "description" : "testDescription",
+    "isReadOnly" : false,
+    "isHidden" : false
+}, {
+    "name" : "name2",
+    "typeId": 1,
+    "value": "",
+    "paramSql" : "",
+    "description" : "testDescription2",
+    "isReadOnly" : true,
+    "isHidden" : false
+}, {
+    "name" : "name3",
+    "typeId": 3,
+    "value": "",
+    "paramSql" : "",
+    "description" : "testDescription2",
+    "isReadOnly" : true,
+    "isHidden" : false
+}]
