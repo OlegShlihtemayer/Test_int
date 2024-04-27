@@ -14,12 +14,4 @@
     "description" : "testDescription2",
     "isReadOnly" : true,
     "isHidden" : false
-}, {
-    "name" : "name3",
-    "typeId": 3,
-    "value": "",
-    "paramSql" : "",
-    "description" : "testDescription2",
-    "isReadOnly" : true,
-    "isHidden" : false
 }]
