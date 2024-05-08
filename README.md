@@ -2,10 +2,12 @@
 Sample Project for Onevizion Integration Hub
 
 Sample Integration adds integration logs via API and writes message to stdout.
+![image](/image/Screenshot_1.jpg)
 
 Sample Integration consist of two python files, SimpleIntegration.py and OVIntegration.py.
 OVIntegration.py contains methods for working with API. SampleIntegration.py is python script for executing the integration. 
 
+![image](/image/Screenshot_1.png)
 The integration adds logs of the different log levels (Info, Warning, Error, Debug) every 5 seconds. 
 
 settings.json should be in integration directory. settings.json contains login, password and url. 
