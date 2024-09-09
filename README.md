@@ -1,78 +1,45 @@
-# ihub_sample
-Sample Project for Onevizion Integration Hub
+# Test Module
 
-Sample Integration adds integration logs via API and writes message to stdout.
-![image](/image/Screenshot_1.jpg)
-
-Sample Integration consist of two python files, SimpleIntegration.py and OVIntegration.py.
-OVIntegration.py contains methods for working with API. SampleIntegration.py is python script for executing the integration. 
-
-![image](/image/Screenshot_1.png)
-The integration adds logs of the different log levels (Info, Warning, Error, Debug) every 5 seconds. 
-
-settings.json should be in integration directory. settings.json contains login, password and url. 
-
-Sample Integration retrieves Process Id from ihub_process_id file for adding logs. ihub_process_id is put into integration directory at each integration run.
-
-If you does not have the possibility to add log via API, then you can use SmallSampleIntegration. SmallSampleIntegration is just a integration with writing to stdout only.
-
-Integration uses print(..., flush = True), so the stdout is synchronized with the Integration Logs. Otherwise, messages from stdout are added after the script is completed.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Donec non dui mi. Curabitur eu odio rhoncus, consectetur lectus sit amet, ultrices magna. 
+Maecenas lobortis, neque sed rutrum commodo, eros sem lacinia sem, vitae finibus ex turpis ut lacus.
+Aenean id rutrum eros, sit amet lacinia urna. 
+Nulla et imperdiet ligula. In a ex tristique, ultrices ligula eu, volutpat nulla. 
+Nullam ut urna id ex blandit placerat. 
+Ut fermentum dignissim neque, vitae lacinia ipsum facilisis sit amet. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Aenean nibh purus, condimentum blandit massa quis, laoreet luctus nisi. Suspendisse potenti. 
+Nunc enim justo, elementum sit amet sodales sed, gravida at tellus.
 
 ## Requirements
-- Python 3
-- Requests - library for python (http://docs.python-requests.org/en/master/)
+- Donec vel justo purus. 
+- Nulla neque quam, tempus sit amet urna id. 
+- Nullam mi dui, convallis ac nulla in. 
+- Nulla sit amet hendrerit lorem, ut semper enim.
 
 ## Usage
-Create new integration with the following fields: 
-- Integration Name: Sample Integration
-- Command: python3 ./SampleIntegration.py
-- Repository: https://github.com/ov-integrations/ihub_sample
-- Settings File: settings.json
 
-
+Donec aliquet placerat faucibus: 
+- Vivamus scelerisque vulputate tempus
+- Proin elementum convallis arcu
+- Maecenas elit purus
+- Nunc sit amet laoreet risus at porta turpis
 
 
 settings.json
 
 ```json
 {
-"UserName":"amoiseenko",
+"UserName":"username",
 "Password":"******",
 "URL":"http://localhost:8080"
 }
 ```
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
+![image](img/http_call_rule.png)
 
-**This is bold text**
-_This text is italicized_
-~~This was mistaken text~~
-**This text is _extremely_ important**
-***All this text is important***
-This is a <sub>subscript</sub> text
-This is a <sup>superscript</sup> text
+![](img/http_call_rule.png)
 
-> Text that is a quote
 
-Use `git status` to list all new or modified files that haven't yet been committed.
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-  
-  
-<!-- This content will not appear in the rendered Markdown -->
-
+test

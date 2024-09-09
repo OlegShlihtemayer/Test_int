@@ -1,0 +1,27 @@
+[{
+  "name" : "trackorField",
+  "typeId": 0,
+  "value": "",
+  "paramSql" : "",
+  "description" : "Trackor Field Name",
+  "isReadOnly" : false,
+  "isHidden" : false,
+  "orderNumber" : 2
+},{
+  "name" : "description",
+  "typeId": 0,
+  "value": "",
+  "paramSql" : "",
+  "description" : "Description",
+  "isReadOnly" : false,
+  "isHidden" : false
+},{
+  "name" : "trackorType",
+  "typeId": 0,
+  "value": "0",
+  "paramSql" : "",
+  "description" : "Trackor Type Name",
+  "isReadOnly" : false,
+  "isHidden" : false,
+  "orderNumber" : 1
+}]
