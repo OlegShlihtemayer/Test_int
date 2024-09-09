@@ -5,7 +5,8 @@
   "paramSql" : "",
   "description" : "Trackor Field Name",
   "isReadOnly" : false,
-  "isHidden" : false
+  "isHidden" : false,
+  "orderNumber" : 2
 },{
   "name" : "description",
   "typeId": 0,
@@ -20,6 +21,15 @@
   "value": "0",
   "paramSql" : "",
   "description" : "Trackor Type Name",
+  "isReadOnly" : false,
+  "isHidden" : false,
+  "orderNumber" : 1
+}{
+  "name" : "adescription",
+  "typeId": 0,
+  "value": "",
+  "paramSql" : "",
+  "description" : "Description",
   "isReadOnly" : false,
   "isHidden" : false
 }]
